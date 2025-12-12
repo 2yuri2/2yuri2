@@ -11,4 +11,4 @@ I'm an aspiring developer passionate about Java, building projects, and improvin
 - 🧠 Improving my logic through pseudocode & problem-solving  
 - 💻 Loves creating small beginner projects  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2yuri2)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=2yuri2&hide=contribs,prs)
