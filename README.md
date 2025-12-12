@@ -6,7 +6,7 @@ I'm an aspiring developer passionate about Java, building projects, and improvin
 ---
 
 ## 💡 About Me
-- 🎓 1st-year Computer Science student at the University of the Cordilleras, currently pursuing a Bachelor of Science in Computer Science
+- 🎓 1st-year Computer Science student at the University of the Cordilleras.
 - ☕ Learning **Java** and **Object-Oriented Programming**  
 - 💻 Loves creating small beginner projects
 
